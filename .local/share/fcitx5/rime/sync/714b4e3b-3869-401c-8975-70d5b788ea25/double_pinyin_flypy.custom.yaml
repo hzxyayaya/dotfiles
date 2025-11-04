@@ -1,0 +1,8 @@
+patch:
+  translator/preedit_format: [] #使用双拼时不显示全拼拼音[citation:9]
+  punctuator:
+    full_shape:
+      "\\": "、"
+    half_shape:
+      "\\": "、"
+    

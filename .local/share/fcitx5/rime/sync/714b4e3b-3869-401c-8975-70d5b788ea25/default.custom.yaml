@@ -1,0 +1,21 @@
+patch:
+  switches:
+    - name: ascii_punct
+      reset: 0
+      states: [ 中文, 英文 ]
+  # 每页候选词数量
+  "menu/page_size": 9
+
+  # 输入方案切换快捷键
+  "switcher/hotkeys":
+    - "F4"
+
+  # 默认输入方案列表
+  "schema_list":
+    - schema: double_pinyin_flypy
+    - schema: luna_pinyin_simp     # 简体拼音
+
+  punctuator:
+    # 导入默认配置作为基础
+    import_preset: symbols
+

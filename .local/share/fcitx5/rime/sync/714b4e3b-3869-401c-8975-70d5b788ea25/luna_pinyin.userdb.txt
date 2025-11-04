@@ -1,0 +1,17 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.14.0
+#@/tick	13
+#@/user_id	714b4e3b-3869-401c-8975-70d5b788ea25
+he 	鶴	c=1 d=0.980199 t=13
+jian qie 	剪切	c=1 d=0.955997 t=13
+na ge 	那個	c=1 d=1 t=13
+pei zhi 	配置	c=1 d=0.946485 t=13
+sa da 	撒打	c=1 d=0.941765 t=13
+shi yong 	使用	c=2 d=1.94092 t=13
+shuang pin 	雙拼	c=2 d=1.95556 t=13
+wen jian 	文件	c=1 d=0.951229 t=13
+wo yao 	我要	c=1 d=0.99005 t=13
+xia zai 	下載	c=1 d=0.995012 t=13
+zen me 	怎麼	c=1 d=0.960789 t=13
